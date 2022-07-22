@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-user-address](screens/user-address)
 - [react-native-user-profile](modules/user-profile)
 - [screen-welcome](screens/welcome)
+- [react-native-splash](modules/splash)
 
 # Getting started: Frontend
 
